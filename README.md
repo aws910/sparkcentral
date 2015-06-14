@@ -16,5 +16,5 @@ The strategy for this program was as follows:
 Latest version of code currently resides at the following url:
 http://ideone.com/VHsAs5
 
-...to run the program, click "edit", then click the green "ideone it!" button.
+The program output is at the bottom of the screen, under the "stdout" subheading.
 
